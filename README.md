@@ -47,7 +47,7 @@ Try gradient boosting for comparison
 Feature engineering — interaction terms between tenure and contract type
 
 ## 2. Customer Segmentation with K-Means Clustering
-# Customer Segmentation with K-Means Clustering
+Customer Segmentation with K-Means Clustering
 
 ## Overview
 This project applies **unsupervised learning (K-Means clustering)** to segment customers based on their income and spending behavior, using the [Customer Personality Analysis dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) from Kaggle.
