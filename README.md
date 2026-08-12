@@ -1,4 +1,4 @@
-# Data_Analytics_Portfolio
+# Data_Analytics_Portfolio Projects
 ## 1. Customer Churn Prediction
 Customer Churn Prediction
 
